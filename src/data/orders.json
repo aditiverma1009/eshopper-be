@@ -1,7 +1,38 @@
 [
   {
+    "items": [
+      {
+        "id": 1,
+        "name": "apple",
+        "price": 120,
+        "count": 1,
+        "category": "Fruits & Vegatables"
+      }
+    ],
     "id": 1,
-    "date": "2020-10-01",
+    "date": 1615122360481
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "table cloth",
+        "price": 200,
+        "count": 1,
+        "category": "Household Items"
+      },
+      {
+        "id": 9,
+        "name": "broom",
+        "price": 250,
+        "count": 1,
+        "category": "Household Items"
+      }
+    ],
+    "id": 2,
+    "date": 1615122649963
+  },
+  {
     "items": [
       {
         "id": 1,
@@ -31,26 +62,35 @@
         "count": 2,
         "category": "Dairy & Eggs"
       }
-    ]
+    ],
+    "id": 3,
+    "date": 1615122664245
   },
   {
-    "id": 1,
-    "date": "2020-10-01",
     "items": [
       {
-        "id": 2,
-        "name": "table cloth",
-        "price": 200,
+        "id": 4,
+        "name": "duster",
+        "price": 80,
         "count": 1,
         "category": "Household Items"
       },
       {
-        "id": 9,
-        "name": "broom",
-        "price": 250,
-        "count": 1,
-        "category": "Household Items"
+        "id": 5,
+        "name": "milk",
+        "price": 10,
+        "count": 2,
+        "category": "Dairy & Eggs"
+      },
+      {
+        "id": 6,
+        "name": "butter",
+        "price": 20,
+        "count": 2,
+        "category": "Dairy & Eggs"
       }
-    ]
+    ],
+    "id": 4,
+    "date": 1615122763596
   }
 ]
