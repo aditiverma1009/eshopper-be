@@ -8,7 +8,7 @@ const {
 
 const app = express();
 
-const port = process.env.PORT || 8080;
+const port = 8080;
 
 app.get("/", (req, res) => {
   res.send("Welcome");
@@ -19,6 +19,6 @@ app.use("/items", itemsRouter);
 app.use("/orders", ordersRouter);
 app.use("/health", healthRouter);
 
-app.listen(3000, () => {
+app.listen(port, () => {
   console.log(`Server is up at ${port}`);
 });
