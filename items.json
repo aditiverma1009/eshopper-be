@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "apple",
+    "price": 120,
+    "count": 20,
+    "category": "Fruits & Vegatables"
+  },
+  {
+    "id": 2,
+    "name": "table cloth",
+    "price": 200,
+    "count": 3,
+    "category": "Household Items"
+  },
+  {
+    "id": 3,
+    "name": "grapes",
+    "price": 50,
+    "count": 10,
+    "category": "Fruits & Vegatables"
+  },
+  {
+    "id": 4,
+    "name": "duster",
+    "price": 80,
+    "count": 5,
+    "category": "Household Items"
+  },
+  {
+    "id": 5,
+    "name": "milk",
+    "price": 10,
+    "count": 2,
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 6,
+    "name": "butter",
+    "price": 20,
+    "count": 2,
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 7,
+    "name": "banana",
+    "price": 5,
+    "count": 48,
+    "category": "Fruits & Vegatables"
+  },
+  {
+    "id": 8,
+    "name": "curd",
+    "price": 20,
+    "count": 4,
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 9,
+    "name": "broom",
+    "price": 250,
+    "count": 4,
+    "category": "Household Items"
+  },
+  {
+    "id": 10,
+    "name": "soap",
+    "price": 10,
+    "count": 12,
+    "category": "Household Items"
+  }
+]
