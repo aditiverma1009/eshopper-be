@@ -1,6 +1,10 @@
 const express = require("express");
 
-const { healthRouter, itemsRouter } = require("./routes/index");
+const {
+  healthRouter,
+  itemsRouter,
+  ordersRouter,
+} = require("./src/routes/index");
 
 const app = express();
 
@@ -12,6 +16,7 @@ app.get("/", (req, res) => {
 
 app.use(express.json());
 app.use("/items", itemsRouter);
+app.use("/orders", ordersRouter);
 app.use("/health", healthRouter);
 
 app.listen(3000, () => {

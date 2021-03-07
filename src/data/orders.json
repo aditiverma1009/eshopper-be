@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "date": "2020-10-01",
+    "items": [
+      {
+        "id": 1,
+        "name": "apple",
+        "price": 120,
+        "count": 1,
+        "category": "Fruits & Vegatables"
+      },
+      {
+        "id": 2,
+        "name": "table cloth",
+        "price": 200,
+        "count": 1,
+        "category": "Household Items"
+      },
+      {
+        "id": 9,
+        "name": "broom",
+        "price": 250,
+        "count": 1,
+        "category": "Household Items"
+      },
+      {
+        "id": 8,
+        "name": "curd",
+        "price": 20,
+        "count": 2,
+        "category": "Dairy & Eggs"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "date": "2020-10-01",
+    "items": [
+      {
+        "id": 2,
+        "name": "table cloth",
+        "price": 200,
+        "count": 1,
+        "category": "Household Items"
+      },
+      {
+        "id": 9,
+        "name": "broom",
+        "price": 250,
+        "count": 1,
+        "category": "Household Items"
+      }
+    ]
+  }
+]
